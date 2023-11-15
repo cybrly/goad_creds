@@ -10,6 +10,7 @@ Admins
 	- srv02: castelblack:NgtI75cKV+Pu
 	- dc03: meereen:Ufe-bVXSx9rk
 	- srv03: braavos:978i2pF43UJ-
+
 - Domain Admins
 	- essos.local: Ufe-bVXSx9rk
 	- north.sevenkingdoms.local: NgtI75cKV+Pu
@@ -23,6 +24,7 @@ Users
 	- khal.drogo:horse
 	- jorah.mormont:H0nnor!
 	- sql_svc:YouWillNotKerboroast1ngMeeeeee
+
 - north.sevenkingdoms.local
 	- arya.stark:Needle
 	- eddard.stark:FightP3aceAndHonor!
@@ -36,6 +38,7 @@ Users
 	- samwell.tarly:Heartsbane
 	- jeor.mormont:L0ngCl@w
 	- sql_svc:YouWillNotKerboroast1ngMeeeeee
+
 - sevenkingdoms.local
 	- tywin.lannister:powerkingftw135
 	- jaime.lannister:cersei
@@ -54,6 +57,7 @@ Special Credentials
 - vulns_vars
 	- TERMSRV/castelblack: north\robb.stark:sexywolfy
 	- autologon: north\robb.stark:sexywolfy
+
 - mssql
 	- srv02: sa_password: Sup1_sa_P@ssw0rd!
 	- srv03: sa_password: sa_P@ssw0rd!Ess0s
